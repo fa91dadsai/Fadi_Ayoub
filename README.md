@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fa91dadsai&label=Profile%20views&color=0e75b6&style=flat" alt="fa91dadsai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa91dadsai" alt="fa91dadsai" /></a> </p>
-
 - 🤝 I’m looking for help with **AI**
 
 - 💬 Ask me about **React.js , Node.js , Python ,Pandas**
@@ -17,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fadi-ayoub-002879185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadi-ayoub-002879185" height="30" width="40" /></a>
 <a href="https://fb.com/fadiayoub1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadiayoub1991" height="30" width="40" /></a>
+<a href="https://instagram.com/fadi.ayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadi.ayoub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
